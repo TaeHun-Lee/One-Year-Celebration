@@ -1,3 +1,3 @@
 #1주년 기념
 
-git push -u origin master
+https://one-year-sodol-t1.herokuapp.com/
